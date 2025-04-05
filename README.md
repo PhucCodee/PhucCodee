@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Trần Hoàng Phúc</h1>
-<h3 align="center">A passionate software engineer from Vietnam</h3>
+<h3 align="center">A passionate Computer Science student from Vietnam</h3>
 
 - 📫 How to reach me **justintran2901@gmail.com**
 
