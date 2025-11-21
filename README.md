@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Trần Hoàng Phúc</h1>
-<h3 align="center">A passionate full-stack software engineer from Vietnam</h3>
+<h3 align="center">A passionate backend software engineer from Vietnam, focused on building scalable, maintainable, and reliable software systems. I take interest in clean architecture, well-structured code, and solutions that can stand the test of time. I enjoy designing robust services, optimizing performance, and ensuring that the systems I build operate smoothly in real-world conditions.</h3>
 
-- 🌱 I’m currently learning **.NET Core**
+- 🌱 I’m currently learning **.NET Core** or **Spring Boot**, you will have to find out ;)
 
 - 📫 How to reach me **justintran2901@gmail.com**
 
